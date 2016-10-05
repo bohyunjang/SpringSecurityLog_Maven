@@ -1,0 +1,11 @@
+com\springsecurity\log\model\UserInfo.class
+com\springsecurity\log\config\WebSecurityConfig.class
+com\springsecurity\log\config\SpringSecurityInitializer.class
+com\springsecurity\log\config\SpringWebAppInitializer.class
+com\springsecurity\log\config\WebMvcConfig.class
+com\springsecurity\log\controller\MainController.class
+com\springsecurity\log\dao\impl\UserInfoDAOImpl.class
+com\springsecurity\log\authentication\MyDBAuthenticationService.class
+com\springsecurity\log\dao\UserInfoDAO.class
+com\springsecurity\log\mapper\UserInfoMapper.class
+com\springsecurity\log\config\ApplicationContextConfig.class
